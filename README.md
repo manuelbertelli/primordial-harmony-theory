@@ -22,9 +22,9 @@ We welcome contributions from physicists, mathematicians, cosmologists, and thin
 - **Share**: Add your research, simulations, or theoretical explorations to the `contributions` folder.
 
 ## Contact
-- For direct inquiries or to get more involved with the project, please contact [Your Contact Information].
+- For direct inquiries or to get more involved with the project, please contact manuelbertelli@gmail.com.
 
 ## License
-- This project is licensed under [Your Preferred License], see the LICENSE file for details.
+- This project is licensed under [LICENSE], see the LICENSE file for details.
 
 Join us in unraveling the mysteries of the universe through the lens of the Theory of Primordial Harmony!
